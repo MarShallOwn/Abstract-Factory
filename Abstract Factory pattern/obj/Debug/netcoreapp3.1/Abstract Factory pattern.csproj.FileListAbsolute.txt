@@ -1,0 +1,11 @@
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.exe
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.deps.json
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.runtimeconfig.json
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.runtimeconfig.dev.json
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.dll
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\bin\Debug\netcoreapp3.1\Abstract Factory pattern.pdb
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\obj\Debug\netcoreapp3.1\Abstract Factory pattern.csprojAssemblyReference.cache
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\obj\Debug\netcoreapp3.1\Abstract Factory pattern.AssemblyInfoInputs.cache
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\obj\Debug\netcoreapp3.1\Abstract Factory pattern.AssemblyInfo.cs
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\obj\Debug\netcoreapp3.1\Abstract Factory pattern.dll
+E:\College\Third Year\Amr Abo Hany\Abstract Factory pattern\Abstract Factory pattern\obj\Debug\netcoreapp3.1\Abstract Factory pattern.pdb
